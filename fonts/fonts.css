@@ -1,0 +1,10 @@
+@font-face{
+    src: url(/fonts/Anton-Regular.ttf);
+    font-family: "Anton-Regular";
+    font-weight: normal;
+}
+
+.name01{
+    font-family: "Anton-Regular";
+
+}

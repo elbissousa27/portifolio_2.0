@@ -178,8 +178,8 @@ ul.icons li a {
     -ms-behavior: url("assets/js/PIE.htc");
 }
 
-    ul.icons li a:before {
-        text-align: center;
-        font-size: 26px;
-    }
+ul.icons li a:before {
+    text-align: center;
+    font-size: 26px;
+}
 
